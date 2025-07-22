@@ -11,7 +11,7 @@ We focus on:
 - 📈 **Logs & analytics**: Health checkers, log parsers, and other handy support tools
 - 🧪 **Prototypes & utilities**: Small tools to test or explore Twingate in creative ways
 
-## 👋 Planning something bigger?
+## Planning something bigger?
 
 If you're exploring how to modernize access for your org, replace legacy VPNs, or want to chat about architecture, automation, and best practices—we’d love to connect.
 
