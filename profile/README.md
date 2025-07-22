@@ -23,7 +23,7 @@ Just looking to kick the tires?
 🧪 **[Sign up for a free tenant (up to 5 users)](https://auth.twingate.com/signup)**  
 No credit card. Deploy in minutes. Great for exploring the platform hands-on.
 
-## Related Repos
+## Related Orgs
 
 - [Twingate](https://github.com/twingate) – official Terraform providers, helm charts, K8s operator, k8s gateway, & github action
 - [Twingate-Labs](https://github.com/twingate-labs) – experimental tools, bots, and utilities
